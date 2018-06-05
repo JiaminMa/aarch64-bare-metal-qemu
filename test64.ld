@@ -1,4 +1,4 @@
-ENTRY(_Reset)
+ENTRY(reset)
 SECTIONS
 {
 	. = 0x40000000;
